@@ -1,0 +1,5 @@
+obj
+*.txt
+*.bin
+*.dbg
+.DS_Store
